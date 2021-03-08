@@ -1,4 +1,4 @@
-package es.abelfgdeveloper.common.server.configserver;
+package es.abelfgdeveloper.common.server.config;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
