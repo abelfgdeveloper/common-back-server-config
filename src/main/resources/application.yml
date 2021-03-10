@@ -5,7 +5,8 @@ spring:  cloud:    config:      server:        git:          uri: https://g
           clone-on-start: true
           search-paths:
           - common/servers/eureka-server
-          - common/servers/admin-server          
+          - common/servers/admin-server
+          - common/servers/gateway-server          
           
 logging:
   level:
